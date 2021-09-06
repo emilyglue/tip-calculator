@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Tip Calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React App that helps calculate tips.
+View deployed app [here](http://react-tip-calc.s3-website-us-east-1.amazonaws.com/).
 
 ## Available Scripts
 
